@@ -12,12 +12,13 @@ SASS is a css preprocessor which is a scripting language that extends CSS by all
 to write code in one language and then compile it into CSS. Sass stand for Syntactically Awesome StyleSheets which  is an extension of CSS. 
 Sass allows you to use things like variables, nested rules, inline imports and more. 
 It can also help you to keep things organized and also it allows you to create stylesheets faster.
-## Learning on SASS
+## Learning about SASS
 As I begging learn SASS I learn that it includes two syntax. The first one is SCSS (Sassy CSS) 
 which uses .scss file and is fully compliant with CSS syntax. The other one is indented which is .sass file and uses indentation rather than brackets.
 Also SASS allows the use of variables which can store information you can use throughout your stylesheet.
 For example, you can store a color or size value in a variable at the top of the file, and then use this variable when setting the color or size of
 your elements. With that it can allows you to quickly change your colors without having to modify each line.
+
 For instance,
 ```ruby
 @import url(https://fonts.googleapis.com/css?family=Pacifico);
@@ -70,10 +71,6 @@ height: $icon-square-length;
 The following CSS will be produced:
 ```ruby
 @import url(https://fonts.googleapis.com/css?family=Pacifico);
-//Add variables here:
-$translucent-white: rgba(255,255,255,0.3);
-$icon-square-length: 300px;
-$standard-border: 4px solid black;
 h1 {
   font-family: Roboto, sans-serif;
   text-align: center;
@@ -83,21 +80,21 @@ h1 {
   font-family: 'Pacifico', cursive;
   height: 400px;
   background-image: url("lemonade.jpg");
-  border : {
-    top: $standard-border;
-    bottom: $standard-border;
+  border-top: 4px solid black;
+  border-bottom: 4px solid black;
 }
-}
+
 .slogan {
   position: absolute;
-  border: $standard-border;
+  border: 4px solid black;
   top: 200px;
   left: 25%;
   width: 50%;
   height: 200px;
   text-align: center;
-  background-color: $translucent-white;
+  background-color: rgba(255, 255, 255, 0.3);
 }
+
 span {
   font-size: 24px;
   line-height: 200px;
@@ -107,30 +104,26 @@ span {
   text-align: center;
   font-family: 'Pacifico', cursive;
 }
+
 .icon {
   display: inline-block;
   margin: 2%;
-  border: $standard-border;
+  border: 4px solid black;
   font-size: 32px;
-  width: $icon-square-length;
-height: $icon-square-length;
+  width: 300px;
+  height: 300px;
 }
 ```
+Mainly this is how SASS works but im still learning more as I go.
 
 ## Takeaways
+
 Let's reflect for a moment: what general strategies could I or anyone else take away from this entry?
 
+1. What I had learn is that, as we research on our new topic we learn better when we try it. 
+The better way to learn comer from doing it. At the bigging is hard to deside on what to do but
+by trying and doing a topic you are interesting in makes it asier to learn.
+2. When it comes time to choice, choice on something that interested you and inspired you. Base on things you like. 
 
 
-
-
-
-evidence of learning
-“A-ha” moments, sandbox examples, stuff beyond copying/pasting
-
-presented in readable, coherent way
-Markdown syntax, code snippets, images when necessary
-
-includes clear takeaways/strategy(ies) for learning
-How did you learn? 
 What general tips do you have for others?
