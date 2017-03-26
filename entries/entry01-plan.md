@@ -118,12 +118,10 @@ Mainly this is how SASS works but im still learning more as I go.
 
 ## Takeaways
 
-Let's reflect for a moment: what general strategies could I or anyone else take away from this entry?
+Let's reflect for a moment:
 
 1. What I had learn is that, as we research on our new topic we learn better when we try it. 
-The better way to learn comer from doing it. At the bigging is hard to deside on what to do but
-by trying and doing a topic you are interesting in makes it asier to learn.
-2. When it comes time to choice, choice on something that interested you and inspired you. Base on things you like. 
-
-
-What general tips do you have for others?
+The better way to learn comer from doing it. At the beginning is hard to decide on what to do but
+by trying and doing a topic you are interesting in makes it easier to learn.
+2. When it comes time to choice, choice on something that interested and inspired you. Base on things you enjoy doing. 
+3. If something interest you just review the basic things about it; will make it easier to keep learning about it.
