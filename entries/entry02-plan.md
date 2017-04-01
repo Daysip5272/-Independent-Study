@@ -19,18 +19,3 @@ Note: SCSS is another name for a SASS file
 2. 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-Once you are done with all of your necessary changes in your SASS file, you can save
-your changes into a CSS file by running sass input.scss output.css inside of your terminal. 
-Once you did that, you should see output.css in your workspace with all of your changes from your SASS file.
