@@ -27,7 +27,7 @@ For example:
 ``$color-mm:#00FFFF``
 
 Another thing that can be done on scss is the following:
-```
+```scss
 .parent {
   font : {
     family: Roboto, sans-serif;
@@ -37,7 +37,7 @@ Another thing that can be done on scss is the following:
 }
 ```
 As a result for css is:
-```
+``` css
 .parent {
   font-family: Roboto, sans-serif;
   font-size: 12px;
