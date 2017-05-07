@@ -16,3 +16,8 @@ At the end of the day I did understand, although i'm going to keep reviewing it.
 What I came up with is the following where it's just a start of my project:
 <img src="../images/label.png"/><img src="../images/flower.png"/>
 <img src="../images/withcode.png"/>
+
+# Takeaways
+####  Syntax is the most important part of coding with sass
+That because one little misspelling word could make the entire code no to work properly. Like for example I was 
+adding a new variables in my `input.scss` file and in the code I misspelling and i got an error that broke my entire code but the good thing from using sass is that in the terminal came up saying their is a error on line number. Meaning that with sass it tells you exactly where the error is making coding more easier and faster to find an error. 
