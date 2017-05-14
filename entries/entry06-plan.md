@@ -14,6 +14,7 @@ After playing around with them and not really understanding their job and what t
 At the end of the day I did understand, although i'm going to keep reviewing it.
 
 What I came up with is the following where it's just a start of my project:
+
 <img src="../images/label.png"/><img src="../images/flower.png"/>
 <img src="../images/withcode.png"/>
 
