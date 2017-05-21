@@ -7,3 +7,4 @@
 + [Part 5: Sasstainability](entries/entry05-plan.md)
 + [Part 6: Functions and operations](entries/entry06-plan.md)
 + [Part 7: .....](entries/entry07-plan.md)
++ [Part 8: Final Project on Progress](entries/entry07-plan.md)
